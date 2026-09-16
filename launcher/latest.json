@@ -1,6 +1,6 @@
 {
-  "version": "0.7.1",
-  "downloadUrl": "https://github.com/Yu-gami/DoggRun-Launcher-Data/releases/download/launcher-v0.7.1/DoggRunLauncher-Windows-x64.zip",
-  "sha256": "BA55893E7733D7E90BB7BD2B21BB4894307F868DC189CF77EF1F1B26F634A9E4",
-  "notes": "DoggRun Launcher v0.7.1 / self-update test"
+  "version": "0.8.5",
+  "downloadUrl": "https://github.com/Yu-gami/DoggRun-Launcher-Data/releases/download/launcher-v0.8.5/DoggRunLauncher-Windows-x64.zip",
+  "sha256": "BFC345951D9B8085FEA80F89B3A939DDD761132D24FF2B79FBDDADA8ECDFECDE",
+  "notes": "DoggRun Launcher v0.8.5 / current Windows self-update test"
 }
