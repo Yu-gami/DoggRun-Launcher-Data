@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "notes": "DoggRun R.E.P.O.構成 v1.0.0",
+  "version": "1.0.1",
+  "notes": "DoggRun R.E.P.O.構成 v1.0.1 / 更新検知テスト（MOD構成はv1.0.0と同一）",
   "packages": [
     { "author": "BepInEx", "name": "BepInExPack", "version": "5.4.2305", "bepInEx": true },
     { "author": "CapackMods", "name": "REPO_JP_TranslationAndFont_Updated", "version": "4.1.0", "bepInEx": false },
